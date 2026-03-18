@@ -1,0 +1,5 @@
+<svg preserveAspectRatio="none" width="100%" height="100%" overflow="visible" style="display: block;" viewBox="0 0 28 28" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="person">
+<path id="shape" d="M5.25007 24.5C5.25007 19.6675 9.16758 15.75 14.0001 15.75C18.8326 15.75 22.7501 19.6675 22.7501 24.5M18.0834 8.16667C18.0834 10.4218 16.2552 12.25 14.0001 12.25C11.7449 12.25 9.91674 10.4218 9.91674 8.16667C9.91674 5.91151 11.7449 4.08333 14.0001 4.08333C16.2552 4.08333 18.0834 5.91151 18.0834 8.16667Z" stroke="var(--stroke-0, white)" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>
